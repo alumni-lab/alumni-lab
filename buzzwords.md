@@ -2,6 +2,15 @@
 
 We'll start off by brainstorming more buzzwords, and categorizing them.
 
+Categories:
+
+- Programming Lanuguages
+- Frameworks
+- Databases
+- Hosting
+- Graphics
+
+General:
 
 - GraphQL
 - Gatsby
@@ -27,3 +36,8 @@ We'll start off by brainstorming more buzzwords, and categorizing them.
 - Crowd simulation
 - Boids
 - Game of Life
+- Web Assembly
+- Web GL
+- Redis
+- Rust
+- Elm
