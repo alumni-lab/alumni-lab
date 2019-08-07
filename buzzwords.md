@@ -5,10 +5,29 @@ We'll start off by brainstorming more buzzwords, and categorizing them.
 Categories:
 
 - Programming Lanuguages
-- Frameworks
+    - TypeScript
+    - Dart
+- Front-end Frameworks
+    - React, Vue
+- Back-end Frameworks
+    - Django, Koa
 - Databases
+    - Neo4J
 - Hosting
+    - AWS
+    - Heroku
+    - Google Cloud Platform
 - Graphics
+    - Web GL (different libraries that help)
+    - Three.JS, Pixi, etc.
+    - Babylon
+- Machine Learning
+- Games
+
+
+
+- Testing
+    - writing tests (unit tests, integration test)
 
 General:
 
@@ -41,3 +60,6 @@ General:
 - Redis
 - Rust
 - Elm
+- Go
+- Dart
+- Twilio

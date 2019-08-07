@@ -7,3 +7,5 @@ There are a bunch of amazing boxes out there available on sites like vagrentbox.
 
 Maybe you want to add a few extra things to your base (a runtime or two like Julia, Erlang, JVM or Python, etc.) then start this as your new “base”.
 Maybe you want your box to have more ram or you need your boxes to more closely mirror production and you are building a ram enriched, multiple server cluster with multiple provisioners, we get it… you’ve got a mountain to climb, you just need your gear.
+
+- Rebuild the LHL vagrant box

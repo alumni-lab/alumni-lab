@@ -9,3 +9,13 @@ What is it used for?
 - Analyzing data to identify patterns and trends is key to the transportation industry, which relies on making routes more efficient and predicting potential problems to increase profitability
 What could we build?
 - build tests to work out the probability of how long it would take for lighthouse graduates to find work
+
+
+## The big bit:
+
+Data
+
+- Books!
+    - write a book, following patterns
+    - Horror script generator
+    - Speech keywords + generators
