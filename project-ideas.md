@@ -74,7 +74,7 @@ ideas:
 ## Web Devvy
 - Dating Site for Ace/Aro/Queer
 - Online RubberDuck
-   - Gives you suggestions of where you've fucked up
+   - Gives you suggestions of where you've blarfed up
 - Where to go?
    - Gives you places to go
 - Planner app
