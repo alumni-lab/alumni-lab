@@ -47,6 +47,7 @@ Project ideas:
 - Games
 - Hardware stuff??
 - Blockchain
+- Starcraft deepmind teams (Alphastar) http://wiki.sc2ai.net/Main_Page
 
 The first session will need to be an ideation session for the most part, exploring what people are interested in and then forming the session around that. Once some projects get kicked off, then there will be more stuff for people to pick up when they drop in.
 

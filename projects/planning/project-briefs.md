@@ -44,3 +44,11 @@ For brainstorming purposes, we split the brainstorming into two categories.
 - master system - one master can access multpile junior systems based on templates
 - air bnb for gardening
 
+## Building a Web Framework
+
+- router
+- ORM
+- view engine
+
+## Building a web server from scratch
+
